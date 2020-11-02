@@ -30,3 +30,4 @@ test/Makefile
 src_
 src__
 test_
+/.project
